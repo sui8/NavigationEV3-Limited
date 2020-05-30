@@ -14,7 +14,7 @@ v1.15.0~ Python 3.8.3rc1 (Windows 10 Pro,ver1909)
 ## List of Functions
 ・ Automatically calculates the distance and angle just by placing the robot  
 ・ Robot position points can be deleted (all deletions)  
-・ Reading .ngd file and restoring court status  
+・ Reading .ngd file and restoring court status (Viewer)  
 
 ## Download
 If you want to distribute it, please contact the developer's email (decodeco.7000@gmail.com). In some cases, it may be rejected. Basically, it is only permitted for educational purposes. Commercial use is prohibited.
@@ -34,7 +34,7 @@ v1.15.0~ Python 3.8.3rc1 (Windows 10 Pro,ver1909)
 ## 機能一覧
 ・ロボットを配置するだけで自動で距離と角度を算出  
 ・ロボット位置ポイント削除（全削除）可能    
-・.ngdファイルの読み込みとコート状態復元  
+・.ngdファイルの読み込みとコート状態復元（ビューアー）  
 ・コントロールパネルで視覚的な操作  
 
 ## ダウンロード
