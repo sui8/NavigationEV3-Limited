@@ -16,6 +16,9 @@ v1.15.0~ Python 3.8.3rc1 (Windows 10 Pro,ver1909)
 ・ Robot position points can be deleted (all deletions)  
 ・ Reading .ngd file and restoring court status  
 
+## Download
+If you want to distribute it, please contact the developer's email (decodeco.7000@gmail.com). In some cases, it may be rejected. Basically, it is only permitted for educational purposes. Commercial use is prohibited.
+
 
 # (日本語)
 NavigationEV3 Limitedを使用すると、簡単にEV3を制御することが可能です。
