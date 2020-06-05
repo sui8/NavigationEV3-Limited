@@ -8,7 +8,8 @@ The sophisticated GUI allows you to intuitively place robots and control the EV3
 
 ### Main language and environment  
 v1.0.0~ Python 3.8.2 (Windows 10 Pro,ver1909)  
-v1.15.0~ Python 3.8.3rc1 (Windows 10 Pro,ver1909)
+v1.15.0~ Python 3.8.3rc1 (Windows 10 Pro,ver1909)  
+v1.17.0~ Python 3.8.3 (Windows 10 Pro,ver2004)
 
 
 ## List of Functions
@@ -29,7 +30,8 @@ NavigationEV3 Limitedを使用すると、簡単にEV3を制御することが�
 
 ### メインの開発言語・環境  
 v1.0.0~ Python 3.8.2 (Windows 10 Pro,ver1909)  
-v1.15.0~ Python 3.8.3rc1 (Windows 10 Pro,ver1909)
+v1.15.0~ Python 3.8.3rc1 (Windows 10 Pro,ver1909)  
+v1.17.0~ Python 3.8.3 (Windows 10 Pro,ver2004)
 
 ## 機能一覧
 ・ロボットを配置するだけで自動で距離と角度を算出  
@@ -50,5 +52,5 @@ v1.15.0~ Python 3.8.3rc1 (Windows 10 Pro,ver1909)
 - [x] **v1.0.0** リリース
 - [x] **v1.15.0** NavigationEV3（無印）に準じた仕様に変更
 - [x] **v1.16.0** 一部機能の削除
-- [ ] **v1.17.0** 不定期のライセンス更新
+- [x] **v1.17.0** 不定期のライセンス更新
 - [ ] **v1.18.0** 不定期のライセンス更新
