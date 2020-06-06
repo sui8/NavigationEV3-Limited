@@ -18,7 +18,8 @@ v1.17.0~ Python 3.8.3 (Windows 10 Pro,ver2004)
 ・ Reading .ngd file and restoring court status (Viewer)  
 
 ## Download
-If you want to distribute it, please contact the developer's email (decodeco.7000@gmail.com). In some cases, it may be rejected. Basically, it is only permitted for educational purposes. Commercial use is prohibited.
+If you want to distribute it, please contact the developer's email (decodeco.7000@gmail.com). In some cases, it may be rejected. Basically, it is only permitted for educational purposes. Commercial use is prohibited.  
+Current license period: 2020/6/6~2020/6/30
 
 
 # (日本語)
@@ -40,7 +41,8 @@ v1.17.0~ Python 3.8.3 (Windows 10 Pro,ver2004)
 ・コントロールパネルで視覚的な操作  
 
 ## ダウンロード
-ソフトウェアの入手を希望される方は開発者のメール（decodeco.7000@gmail.com）にご連絡ください。場合によっては却下する場合もあります。基本的には、教育目的での利用に限り許可します。商用利用などは禁止いたします。
+ソフトウェアの入手を希望される方は開発者のメール（decodeco.7000@gmail.com）にご連絡ください。場合によっては却下する場合もあります。基本的には、教育目的での利用に限り許可します。商用利用などは禁止いたします。  
+現在のライセンス期間: 2020/6/6~2020/6/30
 
 
 # Change Logs (変更点)  
